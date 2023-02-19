@@ -1,0 +1,11 @@
+{
+  "name": "nodejsserver",
+  "version": "1.0.0",
+  "description": "A Simple nodejs server setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "B'emnet Abraha",
+  "license": "ISC"
+}
